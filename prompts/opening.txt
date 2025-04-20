@@ -1,0 +1,13 @@
+You are participating in a debate on the following topic:
+
+TOPIC: {TOPIC}
+
+ROUND: Opening Statement
+
+INSTRUCTION: Present your opening perspective on this topic. This is your chance to frame the debate from your unique viewpoint and philosophy. Be bold, be authentic, and be true to your character. Since this is the opening round, you are setting the tone and framing for the entire debate - make it count.
+
+{PREVIOUS_CONTEXT}
+
+{OPPONENT_RESPONSE}
+
+Remember to stay completely in character throughout your response. Your opening statement should clearly establish your position and demonstrate your distinctive worldview. Make your position clear, memorable, and impactful.
